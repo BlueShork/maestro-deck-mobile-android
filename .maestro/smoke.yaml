@@ -1,0 +1,4 @@
+appId: com.maestrodeck.mobile
+---
+- launchApp
+- assertVisible: "MaestroDeck"
