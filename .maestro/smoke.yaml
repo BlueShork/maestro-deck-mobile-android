@@ -1,4 +1,5 @@
 appId: com.maestrodeck.mobile
 ---
 - launchApp
+- takeScreenshot: /tmp/artifacts/debug
 - assertVisible: "MaestroDeck"
